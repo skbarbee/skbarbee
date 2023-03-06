@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Educator+→+Software+Engineer+)](https://git.io/typing-svg)<br>
 
 👋 I am a former educator, as well as a  military spouse, and mom who's enjoying this 😜 humbling experience of becoming a software engineer.<br> 
-My interests are :computer: coding, 📚 🐉 reading, and 👨‍👩‍👧‍👦: spending time with my family. <br>
+My interests are :computer: coding, 📚 🐉 reading, and 👨‍👩‍👧‍👦 spending time with my family. <br>
 Pronouns ❤️: She/her
 
 
