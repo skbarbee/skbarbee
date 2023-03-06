@@ -1,10 +1,10 @@
 <div align='center'>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Educator+→+Software+Engineer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Educator+→+Software+Engineer+)](https://git.io/typing-svg)<br>
 
-
-
- My interests are :computer: coding, 📚 🐉 reading, and :family: spending time with my family. <br>
+👋 I am a former educator, as well as a  military spouse, and mom who's enjoying this 😜 humbling experience of becoming a software engineer.<br> 
+My interests are :computer: coding, 📚 🐉 reading, and 👨‍👩‍👧‍👦: spending time with my family. <br>
+Pronouns ❤️: She/her
 
 
    
@@ -32,13 +32,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
+
   ### My GitHub Stats
    
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-zh&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
-![Views](https://komarev.com/ghpvc/?username=angel-zh&style=flat-square&color=DB7093&label=VIEWS)
+
 </div>
 <!--
 **skbarbee/skbarbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
